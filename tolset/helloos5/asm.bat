@@ -1,0 +1,1 @@
+..\z_tools\nask.exe helloos.nas ipl.bin ipl.lst
